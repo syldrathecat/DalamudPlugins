@@ -24,5 +24,27 @@
         "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.8.2.0/CatScan-v0.8.2.0.zip",
         "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.8.2.0/CatScan-v0.8.2.0.zip",
         "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.8.2.0/CatScan-v0.8.2.0.zip"
-      }
+    },
+    {
+        "Author": "Eqbot, astrodoobs",
+        "Name": "Snapper",
+        "InternalName": "Snapper",
+        "AssemblyVersion": "0.0.2.0",
+        "Description": "/psnap to use",
+        "ApplicableVersion": "any",
+        "Tags": [
+          "snapper"
+        ],
+        "DalamudApiLevel": 9,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "Punchline": "Snapshot mods from your friends",
+        "AcceptsFeedback": true,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadLinkInstall": "https://github.com/senko-forks/XIVSnapper/releases/download/Snapper-v0.0.2.0/Snapper-v0.0.2.0.zip",
+        "DownloadLinkTesting": "https://github.com/senko-forks/XIVSnapper/releases/download/Snapper-v0.0.2.0/Snapper-v0.0.2.0.zip",
+        "DownloadLinkUpdate": "https://github.com/senko-forks/XIVSnapper/releases/download/Snapper-v0.0.2.0/Snapper-v0.0.2.0.zip"
+    }
 ]
