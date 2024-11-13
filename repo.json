@@ -3,7 +3,7 @@
         "Author": "a cat",
         "Name": "CatScan",
         "InternalName": "CatScan",
-        "AssemblyVersion": "0.9.2.0",
+        "AssemblyVersion": "0.9.2.9",
         "Description": "CatScan is a personal scanner for fates, B rank / A rank / S rank monsters, and epic fate bosses, with special features to help with recording hunt trains, S rank spawning, Eureka NM spawning and Bozja CE spawning.\n\nCatScan does not contain networking features, and cannot alert you about hunts in other zones.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/helpful-fox-senko-san/CatScan",
@@ -15,15 +15,15 @@
           "tracker",
           "scan"
         ],
-        "DalamudApiLevel": 10,
+        "DalamudApiLevel": 11,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/helpful-fox-senko-san/CatScan/master/CatScan/Resources/icon.png",
         "Punchline": "A cute hunt mark scanner",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.2.0/CatScan-v0.9.2.0.zip",
-        "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.2.0/CatScan-v0.9.2.0.zip",
-        "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.2.0/CatScan-v0.9.2.0.zip"
+        "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.2.9/CatScan-v0.9.2.9.zip",
+        "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.2.9/CatScan-v0.9.2.9.zip",
+        "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.2.9/CatScan-v0.9.2.9.zip"
     },
     {
         "Author": "Krisan Thyme & MrPolarbear & a cat",
