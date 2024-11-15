@@ -3,7 +3,7 @@
         "Author": "a cat",
         "Name": "CatScan",
         "InternalName": "CatScan",
-        "AssemblyVersion": "0.9.2.99",
+        "AssemblyVersion": "0.9.3.0",
         "Description": "CatScan is a personal scanner for fates, B rank / A rank / S rank monsters, and epic fate bosses, with special features to help with recording hunt trains, S rank spawning, Eureka NM spawning and Bozja CE spawning.\n\nCatScan does not contain networking features, and cannot alert you about hunts in other zones.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/helpful-fox-senko-san/CatScan",
@@ -21,32 +21,8 @@
         "Punchline": "A cute hunt mark scanner",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.2.99/CatScan-v0.9.2.99.zip",
-        "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.2.99/CatScan-v0.9.2.99.zip",
-        "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.2.99/CatScan-v0.9.2.99.zip"
-    },
-    {
-        "Author": "Krisan Thyme & MrPolarbear & a cat",
-        "Name": "IVMP Standalone Editor",
-        "InternalName": "IVMPStandalone",
-        "AssemblyVersion": "1.0.5.1",
-        "Description": "IVMP standalone editor",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "illusio",
-            "vitae",
-            "animation",
-            "concept matrix",
-            "cmtool"
-        ],
-        "DalamudApiLevel": 10,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/KrisanThyme/Illusio-Vitae/main/IVPlugin/Resources/Image/IVIcon.png",
-        "Punchline": "IVMP standalone editor",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/senko-forks/IVMPStandalone/releases/download/IVMPStandalone-v1.0.5.1/IVMPStandalone-v1.0.5.1.zip",
-        "DownloadLinkTesting": "https://github.com/senko-forks/IVMPStandalone/releases/download/IVMPStandalone-v1.0.5.1/IVMPStandalone-v1.0.5.1.zip",
-        "DownloadLinkUpdate": "https://github.com/senko-forks/IVMPStandalone/releases/download/IVMPStandalone-v1.0.5.1/IVMPStandalone-v1.0.5.1.zip"
+        "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.3.0/CatScan-v0.9.3.0.zip",
+        "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.3.0/CatScan-v0.9.3.0.zip",
+        "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/CatScan/releases/download/CatScan-v0.9.3.0/CatScan-v0.9.3.0.zip"
     }
 ]
